@@ -1,0 +1,13 @@
+{
+    "name": "nama-proyek",
+    "version": "1.0.0",
+    "description": "Ini adalah projek pertama saya di github",
+    "scripts": {
+        "start": "perintah-untuk-mulai-proyek",
+        "test": "perintah-untuk-menjalankan-test",
+        "build": "perintah-untuk-membangun-proyek"
+    },
+    "devDependencies": {
+        "prisma": "^5.6.0"
+    }
+}
